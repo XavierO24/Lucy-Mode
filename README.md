@@ -4,7 +4,7 @@ Make a custom room and as long as you are host you can summon lucy on command
 ![VirtualDesktop Android-20221107-224711](https://user-images.githubusercontent.com/82724623/200431850-7216c295-523e-46f0-884f-cb23f57ebb38.jpg)
 
 # How to use
-Select one of the 2 new custom mode to set up being the host (anybody, even without mods can join)  (***this is counted as a modded gamemode so other mods work here***)
+Select one of the 2 new custom modes make a code to garentee host(anybody, even without mods can join) or walk out of stup to join others with it (***this is counted as a modded gamemode so other mods work here***)
 ![VirtualDesktop Android-20221107-225243](https://user-images.githubusercontent.com/82724623/200432699-f9bf6af8-a69b-4ce0-aceb-49506816db2e.jpg)
 Press a face button (a or b) on your Right Controller to summon lucy
 
